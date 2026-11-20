@@ -1,0 +1,182 @@
+[
+  {
+    "event": "Opportunity.ClosedWon",
+    "opportunity": {
+      "Id": "006A001",
+      "StageName": "Closed Won",
+      "Account": {
+        "Id": "001ACME",
+        "Name": "Acme Clinic s.r.o.",
+        "Region": "EU"
+      },
+      "ContractStartDate": "2026-11-20",
+      "TermMonths": 12,
+      "DiscountPct": 0,
+      "AdminEmail": "it-admin@example.com",
+      "LineItems": [
+        {
+          "SKU": "ENDPOINT-CORE",
+          "Quantity": 250
+        },
+        {
+          "SKU": "IDENTITY-PROTECT",
+          "Quantity": 250
+        }
+      ]
+    }
+  },
+  {
+    "event": "Opportunity.ClosedWon",
+    "opportunity": {
+      "Id": "006A002",
+      "StageName": "Closed Won",
+      "Account": {
+        "Id": "001NOVA",
+        "Name": "Nova Hotels a.s.",
+        "Region": "EU"
+      },
+      "ContractStartDate": "2026-11-01",
+      "TermMonths": 1,
+      "DiscountPct": 0,
+      "AdminEmail": "it-admin@example.com",
+      "LineItems": [
+        {
+          "SKU": "ENDPOINT-TRIAL",
+          "Quantity": 50
+        }
+      ]
+    }
+  },
+  {
+    "event": "Opportunity.ClosedWon",
+    "opportunity": {
+      "Id": "006A003",
+      "StageName": "Closed Won",
+      "Account": {
+        "Id": "001NOVA",
+        "Name": "Nova Hotels a.s.",
+        "Region": "EU"
+      },
+      "ContractStartDate": "2026-11-20",
+      "TermMonths": 12,
+      "DiscountPct": 0,
+      "AdminEmail": "it-admin@example.com",
+      "LineItems": [
+        {
+          "SKU": "ENDPOINT-CORE",
+          "Quantity": 120
+        }
+      ]
+    }
+  },
+  {
+    "event": "Opportunity.ClosedWon",
+    "opportunity": {
+      "Id": "006A004",
+      "StageName": "Closed Won",
+      "Account": {
+        "Id": "001BIGB",
+        "Name": "Big Bank plc",
+        "Region": "US"
+      },
+      "ContractStartDate": "2026-12-01",
+      "TermMonths": 36,
+      "DiscountPct": 35,
+      "AdminEmail": "it-admin@example.com",
+      "LineItems": [
+        {
+          "SKU": "ENDPOINT-CORE",
+          "Quantity": 8000
+        }
+      ]
+    }
+  },
+  {
+    "event": "Opportunity.ClosedWon",
+    "opportunity": {
+      "Id": "006A005",
+      "StageName": "Closed Won",
+      "Account": {
+        "Id": "001BADD",
+        "Name": "Bad Data GmbH",
+        "Region": "EU"
+      },
+      "ContractStartDate": "2026-13-40",
+      "TermMonths": 12,
+      "DiscountPct": 0,
+      "AdminEmail": "",
+      "LineItems": [
+        {
+          "SKU": "ENDPOINT-CORE",
+          "Quantity": 10
+        }
+      ]
+    }
+  },
+  {
+    "event": "Opportunity.ClosedWon",
+    "opportunity": {
+      "Id": "006A006",
+      "StageName": "Closed Won",
+      "Account": {
+        "Id": "001ODDS",
+        "Name": "Odd SKU Ltd",
+        "Region": "APAC"
+      },
+      "ContractStartDate": "2026-11-20",
+      "TermMonths": 12,
+      "DiscountPct": 0,
+      "AdminEmail": "it-admin@example.com",
+      "LineItems": [
+        {
+          "SKU": "ENDPOINT-ULTRA",
+          "Quantity": 10
+        }
+      ]
+    }
+  },
+  {
+    "event": "Opportunity.ClosedWon",
+    "opportunity": {
+      "Id": "006A007",
+      "StageName": "Closed Won",
+      "Account": {
+        "Id": "001OLDP",
+        "Name": "Old Pharma s.r.o.",
+        "Region": "EU"
+      },
+      "ContractStartDate": "2026-06-01",
+      "TermMonths": 12,
+      "DiscountPct": 0,
+      "AdminEmail": "it-admin@example.com",
+      "LineItems": [
+        {
+          "SKU": "ENDPOINT-LEGACY",
+          "Quantity": 80
+        }
+      ]
+    }
+  },
+  {
+    "event": "Opportunity.ClosedWon",
+    "opportunity": {
+      "Id": "006A008",
+      "StageName": "Closed Won",
+      "Account": {
+        "Id": "001SHRT",
+        "Name": "Short Term Labs",
+        "Region": "EU"
+      },
+      "ContractStartDate": "2025-11-25",
+      "TermMonths": 12,
+      "DiscountPct": 0,
+      "AdminEmail": "it-admin@example.com",
+      "LineItems": [
+        {
+          "SKU": "CLOUD-POSTURE",
+          "Quantity": 30
+        }
+      ]
+    }
+  }
+]
